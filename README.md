@@ -1,0 +1,3 @@
+# chatRoom
+这个项目使用了express4.1和socket.io等模块，主要实现了实时聊天的功能。这个项目的主要目的是为了学习socket.io这个模块，之后还会
+更新，TBC...
